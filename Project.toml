@@ -1,0 +1,13 @@
+name = "SingleCell"
+uuid = "b657e0f9-c589-4df6-aaf9-03a67dbd63c4"
+authors = ["jr-leary7 <jrleary@live.unc.edu> and contributors"]
+version = "0.1.0"
+
+[compat]
+julia = "1"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
